@@ -1,0 +1,24 @@
+h1 {
+    font-family: arial, verdana, sans-serif;
+    font-size: 50px;
+    font-variant: small-caps;
+    font-style: italic;
+    color: rgb(115, 80, 212);
+
+}
+
+p {
+    font-family: georgia, serif;
+    line-height: 50px;
+}
+
+body {
+    background-color: white;
+    background-image: url(sapi.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+
+body {
+    background-image: url(sapi.png) no-repeat top right;
+}
